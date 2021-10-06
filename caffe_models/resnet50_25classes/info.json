@@ -1,0 +1,26 @@
+{
+    "caffe flavor": "BVLC",
+    "caffe version": "1.0.0-rc5",
+    "creation time": "2017-05-05 12:02:43.037819",
+    "dataset_id": "20170504-194831-66c5",
+    "deploy file": "deploy.prototxt",
+    "digits version": "5.1-dev",
+    "framework": "caffe",
+    "id": "20170505-120243-5602",
+    "image dimensions": [
+        256,
+        512,
+        3
+    ],
+    "image resize mode": "crop",
+    "job id": "20170505-120243-5602",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "resNet50_bvlc_b7_lr0.0005exp_noMean_tuning",
+    "snapshot file": "snapshot_iter_3856.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "bruno"
+}

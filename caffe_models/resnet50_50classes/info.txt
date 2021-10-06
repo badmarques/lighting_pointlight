@@ -1,0 +1,2 @@
+resNet50_bvlc_b7_lr0.001_noMean 
+Epoch 8

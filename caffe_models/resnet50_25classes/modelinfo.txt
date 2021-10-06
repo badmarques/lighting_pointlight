@@ -1,0 +1,2 @@
+resNet50_bvlc_b7_lr0.0005exp_noMean_tuning 
+Epoch 2
